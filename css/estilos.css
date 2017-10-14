@@ -1,0 +1,78 @@
+h4, h5{
+  font-weight: bold;
+  color: #fff;
+  font-style: italic;
+}
+body{
+  background-image: url('../img/header.jpg'), url('../img/fondo.jpg');
+  background-position: left top, left bottom;
+  background-repeat: no-repeat, no-repeat;
+  background-size:100% 150px, cover;
+  background-attachment: fixed, fixed;
+}
+.logo-img{
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.enlace{
+  margin-left: 0 !important;
+  padding: 0 10px 0 15px !important;
+}
+.li-enlace{
+  padding: 10px 0 0 15px;
+}
+/* Titulo de la pagina */
+.title{
+  margin-top: 100px;
+}
+/* Redes sociales */
+.redes-icon{
+  width: 50px;
+}
+.li-redes{
+  margin-bottom: 10px;
+}
+/* Entrada del blog */
+.entrada{
+  background-color: #fff;
+}
+.fila-entrada{
+  margin: 0 !important;
+  text-align: justify;
+}
+.fila-entrada2{
+  margin: 0 !important;
+  text-align: justify;
+  padding:0 10px;
+}
+/* PERFIL DEL AUTOR */
+.img-entrada{
+  padding: 10px !important;
+}
+.h5-perfil{
+  color: rgba(0,0,0,0.87);
+}
+.row-entrada{
+  margin-bottom: 0;
+}
+.h5-entrada{
+  color: rgba(0,0,0,0.87);
+}
+/* COMENTARIO */
+.coment-h{
+  color: #fff;
+}
+.input{
+  color: #fff;
+}
+.label{
+  color: #fff !important;
+  font-weight: bold;
+}
+.waves-effect1{
+   background-color: rgba(255,255,255, 1);
+   color: green;
+ }
+.form{
+  padding: 15px !important;
+}
